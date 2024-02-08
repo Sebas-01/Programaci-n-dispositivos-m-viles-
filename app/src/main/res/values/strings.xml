@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Application1</string>
+    <string name="user">Usuarios</string>
+    <string name="btn1">Ingresar</string>
+    <string name="btn2">Registrarse</string>
+
 </resources>
